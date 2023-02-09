@@ -19,7 +19,7 @@
       {
         "text": "You're hot!",
         "image": "bum.bmp",
-        "x_position": 0.4,
+        "x_position": 0.45,
         "y_position": 0.5,
         "text_size": 2,
         "border": true,
