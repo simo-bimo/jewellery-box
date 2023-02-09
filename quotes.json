@@ -1,4 +1,29 @@
 [
-  {"text": "Happy Valentine's Day!"},
-  {"text": "I love you!"}
+  {
+    "settings":
+    {
+      "reload_time": 300,
+      "do_lights": true,
+    }
+  },
+  {"quotes":
+    [
+      {
+        "text": "Happy Valentine's Day!",
+        "image": 0,
+        "x_position": 0.5,
+        "y_position": 0.5,
+        "text_size": 1,
+        "border": false,
+      },
+      {
+        "text": "I love you!",
+        "image": 0,
+        "x_position": 0.5,
+        "y_position": 1.0,
+        "text_size": 1,
+        "border": true,
+      }
+    ]
+  }
 ]
