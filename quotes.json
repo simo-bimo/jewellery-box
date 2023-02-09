@@ -3,7 +3,8 @@
     "settings":
     {
       "reload_time": 300,
-      "do_lights": false,
+      "do_lights": true,
+      "light_RGB" : [255, 0, 0],
     }
   },
   {"quotes":
