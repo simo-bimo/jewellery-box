@@ -10,20 +10,28 @@
     [
       {
         "text": "Happy Valentine's Day!",
-        "image": 0,
+        "image": "heart.bmp",
         "x_position": 0.5,
-        "y_position": 0.5,
-        "text_size": 1,
+        "y_position": 0.25,
+        "text_size": 2,
         "border": false,
       },
       {
-        "text": "I love you!",
-        "image": 0,
+        "text": "You're hot!",
+        "image": "bum.bmp",
         "x_position": 0.5,
-        "y_position": 1.0,
+        "y_position": 0.5,
         "text_size": 1,
         "border": true,
-      }
+      },
+      {
+        "text": "I love you!",
+        "image": "heart.bmp",
+        "x_position": 0.5,
+        "y_position": 0.25,
+        "text_size": 1,
+        "border": true,
+      },
     ]
   }
 ]
