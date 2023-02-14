@@ -4,7 +4,7 @@
     {
       "reload_time": 300,
       "do_lights": true,
-      "light_RGB" : [255, 200, 165],
+      "light_RGB" : [255, 200, 0],
     }
   },
   {"quotes":
