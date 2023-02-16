@@ -1,2 +1,1 @@
-# belles-box-quotes
-Stores a list of quotes that an Adafruit Magtag loads every night to display in Belle's Jewelry Box.
+<iframe src="https://www.desmos.com/calculator/q4zbyq1ofd?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
