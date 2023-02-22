@@ -33,6 +33,14 @@
         "text_size": 2,
         "border": true,
       },
+      {
+        "text": "none",
+        "image": "belle_fishing.bmp",
+        "x_position": 0,
+        "y_position": 0,
+        "text_size": 0,
+        "border": false,
+      },
     ]
   }
 ]
