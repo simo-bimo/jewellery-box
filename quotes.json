@@ -10,11 +10,51 @@
   {"quotes":
     [
       {
-        "text": "Happy Valentine's Day!",
-        "image": "heart.bmp",
-        "x_position": 0.5,
-        "y_position": 0.85,
-        "text_size": 2,
+        "text": "none",
+        "image": "belle-fishing.bmp",
+        "x_position": 0,
+        "y_position": 0,
+        "text_size": 0,
+        "border": false,
+      },
+      {
+        "text": "none",
+        "image": "camp-hard-yakka.bmp",
+        "x_position": 0,
+        "y_position": 0,
+        "text_size": 0,
+        "border": false,
+      },
+      {
+        "text": "none",
+        "image": "mountain.bmp",
+        "x_position": 0,
+        "y_position": 0,
+        "text_size": 0,
+        "border": false,
+      },
+      {
+        "text": "none",
+        "image": "panda.bmp",
+        "x_position": 0,
+        "y_position": 0,
+        "text_size": 0,
+        "border": false,
+      },
+      {
+        "text": "none",
+        "image": "gros-de-miel.bmp",
+        "x_position": 0,
+        "y_position": 0,
+        "text_size": 0,
+        "border": false,
+      },
+      {
+        "text": "none",
+        "image": "villagers-in-bed.bmp",
+        "x_position": 0,
+        "y_position": 0,
+        "text_size": 0,
         "border": false,
       },
       {
@@ -32,14 +72,6 @@
         "y_position": 0.85,
         "text_size": 2,
         "border": true,
-      },
-      {
-        "text": "none",
-        "image": "belle_fishing.bmp",
-        "x_position": 0,
-        "y_position": 0,
-        "text_size": 0,
-        "border": false,
       },
     ]
   }
