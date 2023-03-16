@@ -1,0 +1,1 @@
+magick convert %1 -resize 296x128^^ +repage -gravity %3 -extent 296x128 -auto-level -dither FloydSteinberg -define dither:diffusion-amount=85%% -remap eink-4gray.png  BMP3:%2
