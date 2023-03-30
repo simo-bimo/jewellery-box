@@ -14,7 +14,7 @@ import adafruit_requests
 
 from secrets import secrets
 
-DATA_URL = "https://simo-bimo.github.io/belles-box-quotes/quotes.json"
+DATA_URL = "https://simo-bimo.github.io/jewellery-box/quotes.json"
 ACC_THRESHOLD = 6.5
 Y_WAIT_TIME = 0.5
 
